@@ -17,6 +17,9 @@
 
 ---
 
+> New here? See [Discovery Notes](./DISCOVERY.md) for the short project pitch,
+> target users, and good first improvements.
+
 ## ✨ Features
 
 ### 🎯 Core Functionality
@@ -76,8 +79,8 @@
 
 ``` bash
 # Clone the repository
-git clone https://github.com/ahansardar/SpeedSync---A-Speedometer-For-All-Your-Rides.git
-cd speedsync
+git clone https://github.com/ahansardar/SpeedSync.git
+cd SpeedSync
 
 # Install dependencies
 npm install
@@ -179,7 +182,7 @@ speedsync/
 ## 🚀 Deployment
 
 ### Vercel (Recommended)
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ahansardar/SpeedSync---A-Speedometer-For-All-Your-Rides.git)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ahansardar/SpeedSync.git)
 
 ### Manual Deployment
 
@@ -232,7 +235,7 @@ We welcome contributions!
 
 ```bash
 # Fork and clone the repo
-git clone https://github.com/ahansardar/SpeedSync---A-Speedometer-For-All-Your-Rides.git
+git clone https://github.com/ahansardar/SpeedSync.git
 # Create a feature branch
 git checkout -b feature/amazing-feature
 
@@ -330,9 +333,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Email**: ahansardarvis@gmail.com
 
 ### Support
-- 🐛 **Bug Reports**: [GitHub Issues](https://github.com/ahansardar/SpeedSync---A-Speedometer-For-All-Your-Rides/issues)
-- 💡 **Feature Requests**: [GitHub Discussions](https://github.com/ahansardar/SpeedSync---A-Speedometer-For-All-Your-Rides/discussions)
-- 📖 **Documentation**: [Wiki](https://github.com/ahansardar/SpeedSync---A-Speedometer-For-All-Your-Rides/wiki)
+- 🐛 **Bug Reports**: [GitHub Issues](https://github.com/ahansardar/SpeedSync/issues)
+- 💡 **Feature Requests**: [GitHub Discussions](https://github.com/ahansardar/SpeedSync/discussions)
+- 📖 **Documentation**: [Wiki](https://github.com/ahansardar/SpeedSync/wiki)
 
 ---
 
